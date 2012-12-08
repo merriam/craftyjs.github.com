@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-Title: What we need
+title: What we need
 ---
 
 Welcome to the Crafty tutorial section. This is very much a work in progress. You can find already written chapters to the left. Please help out by [forking](https://github.com/craftyjs/craftyjs.github.com).
